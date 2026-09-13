@@ -2,6 +2,14 @@
   "name": "sliding-window-counter-rate-limiter",
   "version": "1.0.0",
   "description": "Production-ready Sliding Window Counter rate limiter for Express using Redis and Lua",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shubhamk151/sliding-window-counter-rate-limiter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shubhamk151/sliding-window-counter-rate-limiter/issues"
+  },
+  "homepage": "https://github.com/shubhamk151/sliding-window-counter-rate-limiter#readme",
   "license": "MIT",
   "author": "Shubham Kakade",
   "type": "commonjs",
